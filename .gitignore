@@ -1,0 +1,6 @@
+# Private credentials - never commit these
+secrets.h
+
+# Arduino IDE / OS generated files
+.DS_Store
+Thumbs.db
